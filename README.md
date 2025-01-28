@@ -5,7 +5,7 @@
 ## Feature Extraction 
 - By training on normal samples, the model learns critical features of normal ECG patterns, helping it detect deviations (anomalies) in new samples.
 ## Model Architecture
-![Alt text](Project Architecture.png)
+![](https://github.com/Md-Ali05/Time-Series-analysis-using-LSTM-Autoencoder-/blob/main/Project%20Architecture.png)
 ## Simulation
 ![](https://github.com/Md-Ali05/Time-Series-analysis-using-LSTM-Autoencoder-/blob/main/Real%20time%20device%20simulation.gif)
 
